@@ -11,4 +11,3 @@ $processor->intercept();
 $uri = __DIR__ . '/IncludeFile.php';
 $content = file_get_contents($uri);
 include $uri;
-

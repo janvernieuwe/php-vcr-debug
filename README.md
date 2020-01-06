@@ -2,7 +2,7 @@
 Managed to boil it down to this code
 
 ```bash
-$ /usr/bin/php7.3 run.php
+/usr/bin/php7.3 run.php
 ```
 
 is fine, but
